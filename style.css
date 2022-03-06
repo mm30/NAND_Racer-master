@@ -1,0 +1,55 @@
+.root{
+    -fx-background-color: snow;
+}
+
+#biglabel{
+    fx-text-fill: white;
+    fx-font-size: 24;
+}
+
+.leaderboardLabel{
+    fx-text-fill: white;
+    fx-font-size: 18;
+}
+
+.label {
+    -fx-text-fill: rgb(120,120,161);
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+}
+
+.text-field{
+    -fx-prompt-text-fill:green;
+    -fx-text-fill: red;
+}
+
+.button {
+    -fx-background-color:rgb(150, 150, 183);
+    -fx-background-radius:6;
+    -fx-text-fill:white;
+}
+
+.passStyle{
+    -fx-text-fill: cornflowerblue;
+    -fx-font-style: normal;
+    -fx-font-weight: bold;
+    -fx-font-size: 14;
+}
+
+.correctAnswer{
+    -fx-background-color:rgb(92, 214, 92);
+    -fx-text-fill:white;
+}
+
+.incorrectAnswer{
+    -fx-background-color:rgb(255, 0, 0);
+    -fx-text-fill:white;
+}
+
+#nameStyle {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font-style: normal;
+    -fx-font-weight: bold;
+    -fx-font-size: 14;
+}
